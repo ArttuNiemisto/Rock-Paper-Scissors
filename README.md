@@ -3,5 +3,6 @@ JavaScript
 ## Built with
 
 -JavaScript
-##
--Arttu Niemistö
+
+
+-Arttu Niemistö-
