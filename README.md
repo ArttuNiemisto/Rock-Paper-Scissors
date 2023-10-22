@@ -1,4 +1,4 @@
-# exercise-1
+# Rock Paper Scissors
 JavaScript
 ## Built with
 
